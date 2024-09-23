@@ -1,0 +1,6 @@
+NAME // TYPE // PRICE // QUANTITY 
+Sword // weapon // 600 // 1
+Gun // weapon // 300 // 1
+Health Potion // tools // 50 // 5
+Sticks // resources // 5 // 60
+Helmet // armour // 25 // 1
